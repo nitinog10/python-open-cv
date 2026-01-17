@@ -11,8 +11,8 @@ This project demonstrates real-time face detection using OpenCV and a pre-traine
 ## Requirements
 
 - Python 3.13+
-- OpenCV (`opencv-python`)
-
+- OpenCV (`opencv-python`
+-a proper working camera
 ## Installation
 
 1. Install the required package:
